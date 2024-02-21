@@ -2,6 +2,8 @@
 [https://public.tableau.com/app/profile/dfsasas.dfasdf/viz/AirBnBfullprojuct/Dashboard1](https://public.tableau.com/app/profile/dfsasas.dfasdf/viz/AirBnBfullprojuct/Dashboard1)
 
 *You can see the details of the DB in here : [https://www.kaggle.com/datasets/airbnb/seattle?select=calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle?select=calendar.csv)*
+
+
 About Dataset
 Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
