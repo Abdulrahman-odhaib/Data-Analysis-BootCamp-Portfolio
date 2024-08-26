@@ -21,7 +21,7 @@ Here are some questions that this dataset could help answer:
 - What trends can be observed in employee performance ratings over time?
 - Is there a correlation between employee tenure and performance?
 
-For more ideas, visualizations of the dataset can be found [here](https://public.tableau.com/app/profile/yourprofile/viz/HumanResourcesProject/Dashboard1).
+For more ideas, visualizations of the dataset can be found [here](https://public.tableau.com/app/profile/dfsasas.dfasdf/viz/HRDashboard_17246820907270/Dashboard2).
 
 ## Acknowledgement
 This dataset is part of a human resources management study, and the original source can be found [here](https://your-source-link.com).
