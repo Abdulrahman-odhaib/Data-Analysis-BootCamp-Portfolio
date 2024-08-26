@@ -1,5 +1,4 @@
-# Let's create a README.md file with the provided content.
-readme_content = """
+
 # Human Resources Dataset Analysis
 
 ## About the Dataset
