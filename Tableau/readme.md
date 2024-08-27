@@ -1,8 +1,10 @@
-#1 Airbnb Dashboard
+1
+# Airbnb Dashboard
 ###This dashboard provides a comprehensive overview of the Airbnb database, focusing on key metrics and insights to support sales strategies.
 https://public.tableau.com/app/profile/dfsasas.dfasdf/viz/AirbnbDashboard_17247374229440/Dashboard1?publish=yes
 
-#2 Human Resources Dataset Analysis
+2
+# Human Resources Dataset Analysis
 
 ## About the Dataset
 
